@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act-\ The\ act\ method\ is\ responsible\ for\ the\ Catchers\ movement(Left,Right)\r\n\ and\ it\ also\ removes\ the\ leaves\ when\ the\ Catcher\ come\ in\ contact.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=Catcher()
+comment2.text=\r\n\ Catcher\ will\ add\ the\ image\ in\ the\ correct\ scalse\ which\ is\ (90,90)\r\n
+comment3.params=
+comment3.target=void\ removeTouching()
+comment3.text=\r\n\ removeTouching\ is\ in\ controlling\ of\ removing\ Food\ objects\ on\ the\ World\r\n\ every\ time\ the\ Fly\ comes\ in\ contact\ with\ the\ Food.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnted\r\n
+numComments=4

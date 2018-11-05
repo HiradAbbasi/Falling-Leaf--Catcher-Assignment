@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Leaf
+comment0.text=\r\n\ The\ Leaf\ Constructor\ will\ add\ the\ Leaf\ with\ random\ speed\ and\ wind\r\n\ speed\ to\ the\ world.\ The\ constructor\ also\ randomizes\ the\ different\ \r\n\ types\ of\ leaves.\ \r\n\ \r\n\ @author\ Hirad\ Abbasi\r\n\ @version\ November\ 2nd\r\n
+comment1.params=
+comment1.target=Leaf()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act-\ the\ act\ method\ is\ responsible\ for\ the\ randomized\ speed\ \r\n\ moving\ down\ and\ \ random\ speed\ for\ the\ wind.\ The\ act\ method\ also\r\n\ removes\ the\ Leaf\ it\ raches\ the\ edge\ of\ the\ world.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\ \r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ moveDown()
+comment3.text=\r\n\ moveDown-\ Makes\ the\ Leaf\ object\ move\ downwards\ at\ \r\n\ randomized\ speeds.\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\ \r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ randomWind()
+comment4.text=\r\n\ randomWind-\ Makes\ the\ Leaft\ object\ move\ Left\ and\ Right\ at\ \r\n\ \r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\ \r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=5
